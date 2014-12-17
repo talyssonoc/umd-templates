@@ -1,0 +1,20 @@
+{
+  "name": "umd-templates",
+  "version": "0.0.1",
+  "description": "UMD pattern templates for gulp-umd compliants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amd",
+    "commonjs",
+    "umd",
+    "wrap",
+    "template"
+  ],
+  "authors": [
+    "talyssonoc <talyssonoc@gmail.com>"
+  ],
+  "license": "MIT"
+}
