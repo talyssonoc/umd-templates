@@ -1,6 +1,6 @@
 {
   "name": "umd-templates",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "UMD pattern templates for gulp-umd compliants",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,9 @@
   "authors": [
     "talyssonoc <talyssonoc@gmail.com>"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/talyssonoc/umd-templates"
+  },
   "license": "MIT"
 }
